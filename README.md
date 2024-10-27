@@ -2,8 +2,9 @@
 
 This project involves predicting rainfall using 10 years of daily weather observations from various locations across Australia. The dataset contains a range of features related to temperature, rainfall, wind, humidity, and other weather conditions.
 
-The dataset used in this project consists of daily weather observations with the following key features:
+[Dataset Link](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
 
+The dataset used in this project consists of daily weather observations with the following key features:
 
 * Date: Date of observation
 * Location: Location of the weather station
